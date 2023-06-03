@@ -1,0 +1,12 @@
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\bin\Debug\net7.0\EventBus.AzurServiceBus.deps.json
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\bin\Debug\net7.0\EventBus.AzurServiceBus.dll
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\bin\Debug\net7.0\EventBus.AzurServiceBus.pdb
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\EventBus.AzurServiceBus.csproj.AssemblyReference.cache
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\EventBus.AzurServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\EventBus.AzurServiceBus.AssemblyInfoInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\EventBus.AzurServiceBus.AssemblyInfo.cs
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\EventBus.AzurServiceBus.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\EventBus.AzurServiceBus.dll
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\refint\EventBus.AzurServiceBus.dll
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\EventBus.AzurServiceBus.pdb
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.AzurServiceBus\obj\Debug\net7.0\ref\EventBus.AzurServiceBus.dll

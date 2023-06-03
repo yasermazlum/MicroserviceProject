@@ -1,0 +1,15 @@
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\bin\Debug\net7.0\NotificationService.exe
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\bin\Debug\net7.0\NotificationService.deps.json
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\bin\Debug\net7.0\NotificationService.runtimeconfig.json
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\bin\Debug\net7.0\NotificationService.dll
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\bin\Debug\net7.0\NotificationService.pdb
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.csproj.AssemblyReference.cache
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.AssemblyInfoInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.AssemblyInfo.cs
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.dll
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\refint\NotificationService.dll
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.pdb
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\NotificationService.genruntimeconfig.cache
+D:\Projects\DotNet\MicroservisProject\src\Services\NotificationService\NotificationService\obj\Debug\net7.0\ref\NotificationService.dll

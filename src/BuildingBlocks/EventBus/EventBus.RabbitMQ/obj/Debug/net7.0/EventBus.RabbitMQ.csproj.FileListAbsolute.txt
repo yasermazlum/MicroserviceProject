@@ -1,0 +1,12 @@
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.RabbitMQ.deps.json
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.RabbitMQ.dll
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.RabbitMQ.pdb
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.AssemblyInfo.cs
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.dll
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\refint\EventBus.RabbitMQ.dll
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.pdb
+D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\ref\EventBus.RabbitMQ.dll

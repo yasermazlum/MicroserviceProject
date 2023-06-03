@@ -1,0 +1,12 @@
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\bin\Debug\net7.0\OrderService.Domain.deps.json
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\bin\Debug\net7.0\OrderService.Domain.dll
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\bin\Debug\net7.0\OrderService.Domain.pdb
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\OrderService.Domain.csproj.AssemblyReference.cache
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\OrderService.Domain.AssemblyInfoInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\OrderService.Domain.AssemblyInfo.cs
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\OrderService.Domain.dll
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\refint\OrderService.Domain.dll
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\OrderService.Domain.pdb
+D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net7.0\ref\OrderService.Domain.dll
