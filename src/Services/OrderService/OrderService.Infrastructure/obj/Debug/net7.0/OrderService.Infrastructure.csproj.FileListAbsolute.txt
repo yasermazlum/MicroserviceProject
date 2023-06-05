@@ -10,3 +10,15 @@ D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Inf
 D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\refint\OrderService.Infrastructure.dll
 D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.pdb
 D:\Projects\DotNet\MicroservisProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\ref\OrderService.Infrastructure.dll
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.deps.json
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.dll
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.pdb
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.AssemblyInfo.cs
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.dll
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\refint\OrderService.Infrastructure.dll
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.pdb
+D:\Projects\DotNet\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\ref\OrderService.Infrastructure.dll

@@ -10,3 +10,15 @@ D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.Base\
 D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\refint\EventBus.Base.dll
 D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.pdb
 D:\Projects\DotNet\MicroservisProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\ref\EventBus.Base.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net7.0\EventBus.Base.deps.json
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net7.0\EventBus.Base.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net7.0\EventBus.Base.pdb
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.csproj.AssemblyReference.cache
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.AssemblyInfoInputs.cache
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.AssemblyInfo.cs
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\refint\EventBus.Base.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\EventBus.Base.pdb
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net7.0\ref\EventBus.Base.dll
