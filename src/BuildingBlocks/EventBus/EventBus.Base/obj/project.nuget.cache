@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AK97w/C/3/yOI53X6ulNi3CELM9WuA0lV1sNkOsO4r0uRfPAhMxNkukCgAnNtP/iQS6tZi+DPVzwL1S00hB7fQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DotNet\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaser\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

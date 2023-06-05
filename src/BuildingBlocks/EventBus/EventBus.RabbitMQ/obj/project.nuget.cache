@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "q27o8/YfY13m4hgIGas7YnzcluGhsHbc63Z3vCgF3QzDaNRkDESdSTvGQLla+MUXGM99g50s5Ikauf3cZMSxhQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DotNet\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
