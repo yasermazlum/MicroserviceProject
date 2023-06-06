@@ -22,3 +22,6 @@ D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Rabb
 D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\refint\EventBus.RabbitMQ.dll
 D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.pdb
 D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\ref\EventBus.RabbitMQ.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.Base.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.Base.pdb
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.csproj.CopyComplete

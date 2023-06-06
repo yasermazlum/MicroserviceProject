@@ -22,3 +22,10 @@ D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Fact
 D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\refint\EventBus.Factory.dll
 D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.pdb
 D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\ref\EventBus.Factory.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.AzurServiceBus.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Base.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.RabbitMQ.dll
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.AzurServiceBus.pdb
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Base.pdb
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.RabbitMQ.pdb
+D:\Projects\DotNet\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.csproj.CopyComplete
